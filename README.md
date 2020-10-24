@@ -15,3 +15,4 @@ WHEN the game is over
 THEN I can save my initials and score
 
 Mock-Up:
+<img width="951" alt="Screen Shot 2020-10-24 at 2 12 30 PM" src="https://user-images.githubusercontent.com/71522463/97093714-38e24d00-1603-11eb-97a6-2d49ef843ea3.png">
